@@ -1,5 +1,5 @@
 {
-  "name": "socket-chat",
+  "name": "socket-chat-client",
   "private": true,
   "version": "0.0.0",
   "type": "module",
